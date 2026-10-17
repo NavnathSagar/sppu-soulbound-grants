@@ -3,9 +3,9 @@
 **EFDEVCON × SPPU Hackathon Submission**
 
 ## 🔗 Live Deployment & On-Chain Details
-* **Live Vercel App URL:** `https://sppu-soulbound-grants.vercel.app` *(Update after Vercel finishes deploying)*
+* **Live Vercel App URL:** `https://sppu-soulbound-grants.vercel.app/` 
 * **Network:** Ethereum Sepolia Testnet
-* **Deployed Smart Contract Address (Contract ID):** `0x7dd0de223e953c5d650a78471e6d000dc6d780ed` *(Replace with your exact address from `contractConfig.js`)*
+* **Deployed Smart Contract Address (Contract ID):** `0x7dd0de223e953c5d650a78471e6d000dc6d780ed` 
 * **Verified Deployer / Admin Wallet:** `0x7dd0de223e953c5d650a78471e6d000dc6d780ed`
 * **Sepolia Explorer:** [View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x7dd0de223e953c5d650a78471e6d000dc6d780ed)
 
